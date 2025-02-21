@@ -30,5 +30,6 @@ FAQ
 
 
 
-
+Design:
+https://www.figma.com/design/6jV0Th4o3DzXCxcZwQ5Psy/Untitled?node-id=2001-445&m=dev&t=xD12DoyvUrSZbRRk-1
 
